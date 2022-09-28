@@ -1,2 +1,5 @@
-<p>{{ description }}</p>
 <img src="{{ image }}">
+<p><b>Developer:</b> {{ developer }}</p>
+<p><b>Publisher:</b> {{ publisher }}</p>
+<p><b>Type:</b> {{ type }}</p>
+<p>{{ description }}</p>
