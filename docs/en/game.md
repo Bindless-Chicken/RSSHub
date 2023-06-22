@@ -341,6 +341,8 @@ Unlike TapTap China Mainland Website, the International Website has no BBS.
 
 </RouteEn>
 
+## XBox Gamepass
+
 ## War Thunder
 
 ### News
